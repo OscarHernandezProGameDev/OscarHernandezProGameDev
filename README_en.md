@@ -27,3 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugbit&show_icons=true&locale=en" alt="bugbit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbit&" alt="bugbit" /></p>
+
+<h1>Games</h1>
+<ul>
+  <li><a href='https://github.com/Microbyt-Konami/LazyWheels' target="_blank">LazyWheels</a></li>
+  <li><a href='https://github.com/Microbyt-Konami/City3D' target="_blank">City3D</a></li>
+  <li><a href='https://github.com/Microbyt-Konami/CatchTheFish' target="_blank">CatchTheFish</a></li>
+  <li><a href='https://github.com/Microbyt-Konami/PixelHero2D' target="_blank">PixelHero2D</a></li>
+  <li><a href='https://github.com/Microbyt-Konami/SubwaySurfer' target="_blank">SubwaySurfer</a></li>
+</ul>
