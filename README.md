@@ -35,5 +35,4 @@
   <li><a href='https://github.com/Microbyt-Konami/CatchTheFish'target="blank">CatchTheFish</a></li>
   <li><a href='https://github.com/Microbyt-Konami/PixelHero2D'target="blank">PixelHero2D</a></li>
   <li><a href='https://github.com/Microbyt-Konami/SubwaySurfer'target="blank">SubwaySurfer</a></li>
-  <li></li>
 </ul>
