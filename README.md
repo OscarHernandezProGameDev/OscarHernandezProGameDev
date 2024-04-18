@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugbit" alt="bugbit" /></a> </p>
 
-- 🔭 Actualmente estoy desarrollando el juego <a href='https://github.com/Microbyt-Konami/SubwaySurfer 'target="blank">SubwaySurfer</a></li>
+- 🔭 Actualmente estoy desarrollando el juego <a href='https://github.com/Microbyt-Konami/SubwaySurfer' 'target="blank">SubwaySurfer</a></li>
 
 - 🌱 Estoy estudiando **Desarrollo profesional de juegos en Unity3d**
 
@@ -34,5 +34,5 @@
   <li><a href='https://github.com/Microbyt-Konami/City3D' target="blank">City3D</a></li>
   <li><a href='https://github.com/Microbyt-Konami/CatchTheFish' target="blank">CatchTheFish</a></li>
   <li><a href='https://github.com/Microbyt-Konami/PixelHero2D' target="blank">PixelHero2D</a></li>
-  <li><a href='https://github.com/Microbyt-Konami/SubwaySurfer 'target="blank">SubwaySurfer</a></li>
+  <li><a href='https://github.com/Microbyt-Konami/SubwaySurfer' 'target="blank">SubwaySurfer</a></li>
 </ul>
